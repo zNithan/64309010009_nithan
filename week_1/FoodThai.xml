@@ -15,7 +15,7 @@
 <Food>
     <thaifood>
         <foodid>003</foodid>
-        <foodname>ปลาทอด ราดพริกสามรส</foodname>
+        <foodname>ลาบหมู</foodname>
         <price>210</price>
     </thaifood>
 </Food>  
@@ -64,7 +64,7 @@
 <Food>
     <thaifood>
         <foodid>010</foodid>
-        <foodname>ปลากระพงทอดน้ำปลา</foodname>
+        <foodname>ปลากะพงทอดน้ำปลา</foodname>
         <price>180</price>
     </thaifood>
 </Food> 
