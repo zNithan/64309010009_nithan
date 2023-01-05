@@ -1,139 +1,139 @@
 {
-    "Overwatch_Characters": [
-      {
-        "id": 1,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3429c394716364bbef802180e9763d04812757c205e1b4568bc321772096ed86.png",
-        "name": "Ana",
-        "weapons": "biotic rifle",
-        "ABilities_1": "sleep dart : fires a dart that puts an enemy to sleep.",
-        "ABilities_2": "Biotic Grenade :Throws a grenade that heals and increases healing on allies, while damaging and preventing healing on enemies ",
-        "Ultimate": "Nano Boost : Increases an ally's damage, while reducing damage taken.",
-        "Role": "Role : Support."
-      },
-      {
-        "id": 2,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/8dc2a024c9b7d95c7141b2ef065590dbc8d9018d12ad15f76b01923986702228.png",
-        "name": "Ashe",
-        "weapons": "The Viper",
-        "ABilities_1": "Coach Gun : Blast enemies in front of you and knock yourself backwards.",
-        "ABilities_2": "Dynamite :Throw an explosive that detonates after a short delay or immediately when shot. ",
-        "Ultimate": "B.O.B. : Deploy Bob. He charges forward and knocks enemies into the air, then attacks with his arm cannons.",
-        "Role": "Role : Damage."
-      },
-      {
-        "id": 3,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f979896f74ba22db2a92a85ae1260124ab0a26665957a624365e0f96e5ac5b5c.png",
-        "name": "Baptiste",
-        "weapons": "Biotic Launcher",
-        "Passive": "Exo Boots : Hold crouch to jump higher.",
-        "ABilities_1": "Regenerative Burst : Activate to heal yourself and nearby allies instantly, with additional healing over time. Instant heal is doubled for targets less than half health..",
-        "ABilities_2": "Immortality Field : Toss a device that prevents allies from dying. The device can be destroyed. ",
-        "Ultimate": "Amplification Matrix : Project a matrix that doubles the damage and healing effects of allied projectiles.",
-        "Role": "Role : Support."
-      },
-      {
-        "id": 4,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4d715f722c42215072b5dd0240904aaed7b5285df0b2b082d0a7f1865b5ea992.png",
-        "name": "Bastion",
-        "weapons": "Configuration Assault & Configuration Recon",
-        "ABilities_1": "A-36 Tactical Grenade : Fire a bomb that bounces off walls and explodes when it impacts enemies or the ground.",
-        "ABilities_2": "Reconfigure : Switch between weapon configurations.",
-        "Ultimate": "Configuration Artillery : Become immobile and fire up to 3 powerful artillery shells.",
-        "Role": "Role : Damage."
-      },
-      {
-        "id": 5,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/48392820c6976ee1cd8dde13e71df85bf15560083ee5c8658fe7c298095d619a.png",
-        "name": "Brigitte",
-        "weapons": "Rocket Flail",
-        "Passive": "Inspire : Dealing damage to enemies heals nearby allies.",
-        "ABilities_1": "Repair Pack : Heals an ally for a short duration.",
-        "ABilities_2": "Whip Shot : Launch your flail forward to knock an enemy away from you.",
-        "ABilities_3": "Barrier Shield : Hold secondary fire to deploy a frontal energy barrier.",
-        "ABilities_4": "Shield Bash : Available when Barrier Shield is deployed. Dash forward to knock back an enemy.",
-        "Ultimate": "Configuration Artillery : Become immobile and fire up to 3 powerful artillery shells.",
-        "Role": "Role : Support."
-      },
-      {
-        "id": 6,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6cfb48b5597b657c2eafb1277dc5eef4a07eae90c265fcd37ed798189619f0a5.png",
-        "name": "Cassidy",
-        "weapons": "Peacekeeper",
-        "ABilities_1": "Combat Roll : Roll in the direction you're moving and reload.",
-        "ABilities_2": "Magnetic Grenade : Throw a short-range grenade that homes in on nearby enemies and deals additional damage if it sticks to them.",
-        "Ultimate": "Deadeye : Face off against your enemies. Press Q to lock on, then Q or primary fire to fire.",
-        "Role": "Role : Damage."
-      },
-      {
-        "id": 7,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/13750471c693c1a360eb19d5ace229c8599a729cd961d72ebee0e157657b7d18.png",
-        "name": "Doomfist",
-        "weapons": "Hand Cannon",
-        "Passive": "The Best Defense : Dealing damage with abilities creates temporary personal health.",
-        "ABilities_1": "Seismic Slam : Leap and smash the ground.",
-        "ABilities_2": "Power Block : Protect yourself from frontal attacks. Blocking heavy damage empowers Rocket Punch.",
-        "ABilities_3": "Rocket Punch : Hold to charge then release to launch forward and knock an enemy back. Damage increases if the enemy hits a wall.",
-        "Ultimate": "Meteor Strike : Leap up into the air. Move the targeting circle, then press the primary fire to strike the targeted area.",
-        "Role": "Role : tank."
-      },
-      {
-        "id": 8,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ca114f72193e4d58a85c087e9409242f1a31e808cf4058678b8cbf767c2a9a0a.png",
-        "name": "D.va",
-        "weapons": "Fusion Cannons & Light Gun",
-        "Passive": "Eject! : Eject out of your mech when it is destroyed.",
-        "ABilities_1": "Boosters : Fly in the direction you are facing.",
-        "ABilities_2": "Defense Matrix : Block projectiles in an area in front of you.",
-        "ABilities_3": "Micro Missiles : Launch a volley of explosive rockets.",
-        "Ultimate": "Self-Destruct : Eject and overload your mech, causing it to explode after a short time.",
-        "Role": "Role : tank."
-      },
-      {
-        "id": 9,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f086bf235cc6b7f138609594218a8385c8e5f6405a39eceb0deb9afb429619fe.png",
-        "name": "Echo",
-        "weapons": "Tri-Shot",
-        "Passive": "Glide : Hold jump to glide while falling.",
-        "ABilities_1": "Sticky Bombs : Fire a volley of sticky bombs that detonate after a delay.",
-        "ABilities_2": "Flight : Fly forward quickly and then free-fly briefly.",
-        "ABilities_3": "Focusing Beam : Channel a beam for a few seconds. Deals very high damage to targets under half health.",
-        "Ultimate": "Self-Destruct : Eject and overload your mech, causing it to explode after a short time.",
-        "Role": "Role : Damage."
-      },
-      {
-        "id": 10,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4edf5ea6d58c449a2aeb619a3fda9fff36a069dfbe4da8bc5d8ec1c758ddb8dc.png",
-        "name": "Genji",
-        "weapons": "Shuriken",
-        "Passive": "Cyber-agility : Climb on walls and double jump.",
-        "ABilities_1": "Deflect : Deflect incoming projectiles towards the direction you are aiming and block melee attacks.",
-        "ABilities_2": "Swift Strike : Rapidly dash forward and inflict damage on enemies. Eliminations reset the cooldown.",
-        "Ultimate": "Dragonblade : Unsheathe a deadly melee weapon.",
-        "Role": "Role : Damage."
-      },
-      {
-        "id": 11,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/aecd8fa677f0093344fab7ccb7c37516c764df3f5ff339a5a845a030a27ba7e0.png",
-        "name": "Hanzo",
-        "weapons": "Storm Bow",
-        "ABilities_1": "Sonic Arrow : Hanzo launches an arrow that contains a sonar tracking device. Any enemy within its detection radius is visibly marked, making them easier for Hanzo and his allies to hunt down.",
-        "ABilities_2": "Storm Arrows : Hanzo’s next several arrows fire instantly, but at reduced damage. ",
-        "ABilities_3": "Lunge : Hanzo can double jump, allowing him to change direction mid-jump.",
-        "ABilities_4": "",
-        "Ultimate": "Dragonstrike : Hanzo summons a Spirit Dragon which travels through the air in a line. It passes through walls in its way, devouring any enemies it encounters.",
-        "Role": "Role : Damege"
-      },
-      {
-        "id": 12,
-        "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/cef2406b2244b80506f83b8fb9ebaf214f41fa8795cbeef84026cd8018561d04.png",
-        "name": "JUNKER QUEEN",
-        "weapons": "Scattergun",
-        "ABilities_1": "Jagged Blade : Active: Throws a blade in an arc. Re-activate ability to recall. If it sticks to an enemy, the enemy will be pulled back when the blade returns. Damages enemies in both directions. Passive: Quick Melee wounds enemies, dealing damage over time",
-        "ABilities_2": "Commanding Shout : Increase health by 200 and nearby allies health by 50 Increase movement speed by 30%",
-        "ABilities_3": "Carnage : Swing your axe to wound all enemies in front of you dealing damage over time",
-        "ABilities_4": "Adrenaline Rush : All wound damage that Junker Queen does causes her to heal herself",
-        "Ultimate": "Rampage : Charge foward. Wound enemies, dealing damage over time and preventing them from being healed",
-        "Role": "Role : tank"
-      }
-    ]
-  }
+  "Overwatch_Characters": [
+    {
+      "id": 1,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3429c394716364bbef802180e9763d04812757c205e1b4568bc321772096ed86.png",
+      "name": "Ana",
+      "weapons": "biotic rifle",
+      "ABilities_1": "sleep dart : fires a dart that puts an enemy to sleep.",
+      "ABilities_2": "Biotic Grenade :Throws a grenade that heals and increases healing on allies, while damaging and preventing healing on enemies ",
+      "Ultimate": "Nano Boost : Increases an ally's damage, while reducing damage taken.",
+      "Role": "Role : Support."
+    },
+    {
+      "id": 2,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/8dc2a024c9b7d95c7141b2ef065590dbc8d9018d12ad15f76b01923986702228.png",
+      "name": "Ashe",
+      "weapons": "The Viper",
+      "ABilities_1": "Coach Gun : Blast enemies in front of you and knock yourself backwards.",
+      "ABilities_2": "Dynamite :Throw an explosive that detonates after a short delay or immediately when shot. ",
+      "Ultimate": "B.O.B. : Deploy Bob. He charges forward and knocks enemies into the air, then attacks with his arm cannons.",
+      "Role": "Role : Damage."
+    },
+    {
+      "id": 3,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f979896f74ba22db2a92a85ae1260124ab0a26665957a624365e0f96e5ac5b5c.png",
+      "name": "Baptiste",
+      "weapons": "Biotic Launcher",
+      "Passive": "Exo Boots : Hold crouch to jump higher.",
+      "ABilities_1": "Regenerative Burst : Activate to heal yourself and nearby allies instantly, with additional healing over time. Instant heal is doubled for targets less than half health..",
+      "ABilities_2": "Immortality Field : Toss a device that prevents allies from dying. The device can be destroyed. ",
+      "Ultimate": "Amplification Matrix : Project a matrix that doubles the damage and healing effects of allied projectiles.",
+      "Role": "Role : Support."
+    },
+    {
+      "id": 4,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4d715f722c42215072b5dd0240904aaed7b5285df0b2b082d0a7f1865b5ea992.png",
+      "name": "Bastion",
+      "weapons": "Configuration Assault & Configuration Recon",
+      "ABilities_1": "A-36 Tactical Grenade : Fire a bomb that bounces off walls and explodes when it impacts enemies or the ground.",
+      "ABilities_2": "Reconfigure : Switch between weapon configurations.",
+      "Ultimate": "Configuration Artillery : Become immobile and fire up to 3 powerful artillery shells.",
+      "Role": "Role : Damage."
+    },
+    {
+      "id": 5,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/48392820c6976ee1cd8dde13e71df85bf15560083ee5c8658fe7c298095d619a.png",
+      "name": "Brigitte",
+      "weapons": "Rocket Flail",
+      "Passive": "Inspire : Dealing damage to enemies heals nearby allies.",
+      "ABilities_1": "Repair Pack : Heals an ally for a short duration.",
+      "ABilities_2": "Whip Shot : Launch your flail forward to knock an enemy away from you.",
+      "ABilities_3": "Barrier Shield : Hold secondary fire to deploy a frontal energy barrier.",
+      "ABilities_4": "Shield Bash : Available when Barrier Shield is deployed. Dash forward to knock back an enemy.",
+      "Ultimate": "Configuration Artillery : Become immobile and fire up to 3 powerful artillery shells.",
+      "Role": "Role : Support."
+    },
+    {
+      "id": 6,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6cfb48b5597b657c2eafb1277dc5eef4a07eae90c265fcd37ed798189619f0a5.png",
+      "name": "Cassidy",
+      "weapons": "Peacekeeper",
+      "ABilities_1": "Combat Roll : Roll in the direction you're moving and reload.",
+      "ABilities_2": "Magnetic Grenade : Throw a short-range grenade that homes in on nearby enemies and deals additional damage if it sticks to them.",
+      "Ultimate": "Deadeye : Face off against your enemies. Press Q to lock on, then Q or primary fire to fire.",
+      "Role": "Role : Damage."
+    },
+    {
+      "id": 7,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/13750471c693c1a360eb19d5ace229c8599a729cd961d72ebee0e157657b7d18.png",
+      "name": "Doomfist",
+      "weapons": "Hand Cannon",
+      "Passive": "The Best Defense : Dealing damage with abilities creates temporary personal health.",
+      "ABilities_1": "Seismic Slam : Leap and smash the ground.",
+      "ABilities_2": "Power Block : Protect yourself from frontal attacks. Blocking heavy damage empowers Rocket Punch.",
+      "ABilities_3": "Rocket Punch : Hold to charge then release to launch forward and knock an enemy back. Damage increases if the enemy hits a wall.",
+      "Ultimate": "Meteor Strike : Leap up into the air. Move the targeting circle, then press the primary fire to strike the targeted area.",
+      "Role": "Role : tank."
+    },
+    {
+      "id": 8,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ca114f72193e4d58a85c087e9409242f1a31e808cf4058678b8cbf767c2a9a0a.png",
+      "name": "D.va",
+      "weapons": "Fusion Cannons & Light Gun",
+      "Passive": "Eject! : Eject out of your mech when it is destroyed.",
+      "ABilities_1": "Boosters : Fly in the direction you are facing.",
+      "ABilities_2": "Defense Matrix : Block projectiles in an area in front of you.",
+      "ABilities_3": "Micro Missiles : Launch a volley of explosive rockets.",
+      "Ultimate": "Self-Destruct : Eject and overload your mech, causing it to explode after a short time.",
+      "Role": "Role : tank."
+    },
+    {
+      "id": 9,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f086bf235cc6b7f138609594218a8385c8e5f6405a39eceb0deb9afb429619fe.png",
+      "name": "Echo",
+      "weapons": "Tri-Shot",
+      "Passive": "Glide : Hold jump to glide while falling.",
+      "ABilities_1": "Sticky Bombs : Fire a volley of sticky bombs that detonate after a delay.",
+      "ABilities_2": "Flight : Fly forward quickly and then free-fly briefly.",
+      "ABilities_3": "Focusing Beam : Channel a beam for a few seconds. Deals very high damage to targets under half health.",
+      "Ultimate": "Self-Destruct : Eject and overload your mech, causing it to explode after a short time.",
+      "Role": "Role : Damage."
+    },
+    {
+      "id": 10,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4edf5ea6d58c449a2aeb619a3fda9fff36a069dfbe4da8bc5d8ec1c758ddb8dc.png",
+      "name": "Genji",
+      "weapons": "Shuriken",
+      "Passive": "Cyber-agility : Climb on walls and double jump.",
+      "ABilities_1": "Deflect : Deflect incoming projectiles towards the direction you are aiming and block melee attacks.",
+      "ABilities_2": "Swift Strike : Rapidly dash forward and inflict damage on enemies. Eliminations reset the cooldown.",
+      "Ultimate": "Dragonblade : Unsheathe a deadly melee weapon.",
+      "Role": "Role : Damage."
+    },
+    {
+      "id": 11,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/aecd8fa677f0093344fab7ccb7c37516c764df3f5ff339a5a845a030a27ba7e0.png",
+      "name": "Hanzo",
+      "weapons": "Storm Bow",
+      "ABilities_1": "Sonic Arrow : Hanzo launches an arrow that contains a sonar tracking device. Any enemy within its detection radius is visibly marked, making them easier for Hanzo and his allies to hunt down.",
+      "ABilities_2": "Storm Arrows : Hanzo’s next several arrows fire instantly, but at reduced damage. ",
+      "ABilities_3": "Lunge : Hanzo can double jump, allowing him to change direction mid-jump.",
+      "ABilities_4": "",
+      "Ultimate": "Dragonstrike : Hanzo summons a Spirit Dragon which travels through the air in a line. It passes through walls in its way, devouring any enemies it encounters.",
+      "Role": "Role : Damege"
+    },
+    {
+      "id": 12,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/cef2406b2244b80506f83b8fb9ebaf214f41fa8795cbeef84026cd8018561d04.png",
+      "name": "JUNKER QUEEN",
+      "weapons": "Scattergun",
+      "ABilities_1": "Jagged Blade : Active: Throws a blade in an arc. Re-activate ability to recall. If it sticks to an enemy, the enemy will be pulled back when the blade returns. Damages enemies in both directions. Passive: Quick Melee wounds enemies, dealing damage over time",
+      "ABilities_2": "Commanding Shout : Increase health by 200 and nearby allies health by 50 Increase movement speed by 30%",
+      "ABilities_3": "Carnage : Swing your axe to wound all enemies in front of you dealing damage over time",
+      "ABilities_4": "Adrenaline Rush : All wound damage that Junker Queen does causes her to heal herself",
+      "Ultimate": "Rampage : Charge foward. Wound enemies, dealing damage over time and preventing them from being healed",
+      "Role": "Role : tank"
+    }
+  ]
+}
