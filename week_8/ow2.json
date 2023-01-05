@@ -122,6 +122,18 @@
       "ABilities_4": "",
       "Ultimate": "Dragonstrike : Hanzo summons a Spirit Dragon which travels through the air in a line. It passes through walls in its way, devouring any enemies it encounters.",
       "Role": "Role : Damege"
+    },
+    {
+      "id": 12,
+      "picture": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/cef2406b2244b80506f83b8fb9ebaf214f41fa8795cbeef84026cd8018561d04.png",
+      "name": "JUNKER QUEEN",
+      "weapons": "Scattergun",
+      "ABilities_1": "Jagged Blade : Active: Throws a blade in an arc. Re-activate ability to recall. If it sticks to an enemy, the enemy will be pulled back when the blade returns. Damages enemies in both directions. Passive: Quick Melee wounds enemies, dealing damage over time",
+      "ABilities_2": "Commanding Shout : Increase health by 200 and nearby allies health by 50 Increase movement speed by 30%",
+      "ABilities_3": "Carnage : Swing your axe to wound all enemies in front of you dealing damage over time",
+      "ABilities_4": "Adrenaline Rush : All wound damage that Junker Queen does causes her to heal herself",
+      "Ultimate": "Rampage : Charge foward. Wound enemies, dealing damage over time and preventing them from being healed",
+      "Role": "Role : tank"
     }
   ]
 }
