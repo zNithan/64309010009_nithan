@@ -37,7 +37,7 @@
     <script>
         let xhttp = new XMLHttpRequest();
         let i = 0;
-        function getAjax(){
+        function getAjax(){ 
         xhttp.open("GET", 'http://localhost:3000/movieReview');
         xhttp.send();
         xhttp.onload = function () {
