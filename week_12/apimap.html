@@ -27,8 +27,8 @@
                 .then(res => res.json())
                 .then(data => {
                     for (i = 1; i < 78; i++) {
-                        mapData[i] = [data[i]['CC-DESC'], data[i]['TOTAL']];
-            //console.log(mapData[i]);
+                        mapData[i] = [data[i]['CC-DESC'], parseFloat(data[i]["TOTAL"].replace(/,/g, ''))];
+            
             }
             var data = google.visualization.arrayToDataTable(mapData);
             var options = {
